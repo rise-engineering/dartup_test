@@ -26,18 +26,3 @@ dependencies:
   easy_localization: ^3.0.0
   flutter_test:
     sdk: flutter
-
-
-# dev_dependencies:
-#   integration_test:
-#     sdk: flutter
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter.
-# for platform specific see
-# https://github.com/mogol/flutter_secure_storage/blob/develop/pubspec.yaml
-#flutter:
-#  plugin:
-#    androidPackage: io.join.UpyPlugin
-#    pluginClass: UpyPlugin
