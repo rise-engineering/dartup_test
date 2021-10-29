@@ -1,4 +1,4 @@
-import 'package:dartup_test/dartup_testing.dart';
+import 'package:dartup_test/dartup_test.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
